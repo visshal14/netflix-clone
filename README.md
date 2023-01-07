@@ -15,7 +15,7 @@ It get data by the [themoviedb.com](https://www.themoviedb.org/documentation/api
 <img width="1439" alt="Screenshot 2023-01-07 at 9 20 18 PM" src="https://user-images.githubusercontent.com/55635350/211164658-993a7e26-f889-460f-9b2f-667ec2212c0e.png">
 <img width="1439" alt="Screenshot 2023-01-07 at 9 20 18 PM" src="https://user-images.githubusercontent.com/55635350/211164666-7089ef0f-bf05-44fe-9b78-dd43458678a0.png">
 <img width="1439" alt="Screenshot 2023-01-07 at 9 20 18 PM" src="https://user-images.githubusercontent.com/55635350/211164668-41e27f56-413a-49ea-ab70-c6134c153509.png">
-<img width="1439" alt="Screenshot 2023-01-07 at 9 20 18 PM" src="https://user-images.githubusercontent.com/55635350/211160077-8070facb-4f4c-43cc-a0e1-a9774eea5bf8.png">
+
 <img width="1439" alt="Screenshot 2023-01-07 at 9 20 18 PM" src="https://user-images.githubusercontent.com/55635350/211164669-50702ac9-b2b9-410b-b712-15ebedc8ca62.png">
 
 
