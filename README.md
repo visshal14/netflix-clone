@@ -26,6 +26,7 @@ It get data by the [themoviedb.com](https://www.themoviedb.org/documentation/api
 * change your API_Key in requests.js in src folder
 * If you want to change the genres of movie or want to add the genres of movies please the requests in requests.js [click to get id of genres](https://www.themoviedb.org/talk/5daf6eb0ae36680011d7e6ee)
 * run react project start command
+```npm i```
  ```npm start```
 
 
