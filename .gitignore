@@ -10,6 +10,7 @@
 
 # production
 /build
+apiKey
 
 # misc
 .DS_Store
